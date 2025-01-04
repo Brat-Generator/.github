@@ -1,11 +1,11 @@
-# 🎵 Brat Generator - Create Your Unique Text Style
+# 🎵 [Brat Generator - Create Your Unique Text Style](https://bratgenerator.pro)
 
 > Transform your text into unique styles inspired by Charli XCX's latest album! Express yourself with our easy-to-use text generator.
 
 [![Visit Brat Generator](https://img.shields.io/badge/Visit-Brat%20Generator-ff69b4)](https://bratgenerator.pro)
 [![Share on Twitter](https://img.shields.io/badge/Share-Twitter-1DA1F2)](https://twitter.com/intent/tweet?text=Create%20your%20own%20unique%20text%20with%20Brat%20Generator!%20https://bratgenerator.pro)
 
-## ✨ What is Brat Generator?
+## ✨ What is [Brat Generator](https://bratgenerator.pro)?
 
 Brat Generator is an innovative online tool that lets you create eye-catching text styles inspired by Charli XCX's aesthetic. Whether you're a fan looking to create social media posts, an artist seeking inspiration, or someone who loves unique typography, Brat Generator offers a fresh way to express yourself.
 
